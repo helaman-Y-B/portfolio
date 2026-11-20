@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Sacrament Meeting Planner",
+    "description": "A TypeScript and Next.js application that helps ward leaders organize and schedule sacrament meeting responsibilities.",
+    "link": "https://sacrament-meeting-rho.vercel.app",
+    "github": "https://github.com/helaman-Y-B/sacrament-meeting-planner"
+  },
+  {
+    "id": 2,
+    "title": "Full-Stack WDD430 Portfolio",
+    "description": "A collection of full-stack web development projects completed for the BYU WDD430 course.",
+    "link": "https://wdd430-portfolio-sigma-mocha.vercel.app",
+    "github": "https://github.com/helaman-Y-B/wdd430-portfolio"
+  },
+  {
+    "id": 3,
+    "title": "Pixel Agents",
+    "description": "A playful VS Code extension and CLI that turns AI coding agents into animated pixel-art characters in a virtual office.",
+    "link": "https://github.com/helaman-Y-B/pixel-agents",
+    "github": "https://github.com/helaman-Y-B/pixel-agents"
+  },
+  {
+    "id": 4,
+    "title": "Heritage Makers",
+    "description": "A team-built TypeScript marketplace for artisans and handcrafters to showcase and sell their work.",
+    "link": "https://github.com/helaman-Y-B/Heritage-Makers",
+    "github": "https://github.com/helaman-Y-B/Heritage-Makers"
+  },
+  {
+    "id": 5,
+    "title": "CSE341 Final Project",
+    "description": "A full-stack JavaScript course project demonstrating backend development and MongoDB data operations.",
+    "link": "https://github.com/helaman-Y-B/CSE341-final",
+    "github": "https://github.com/helaman-Y-B/CSE341-final"
+  }
+]
